@@ -61,11 +61,5 @@ let wordsFromSearchString = searchString.split(" "); //Split on spaces
 console.log(wordsFromSearchString);
 
 //indexOf()
-
 console.log(searchString.indexOf("brown"));
 console.log(searchString.indexOf("b", 3));
-
-
-
-
-
