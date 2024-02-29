@@ -64,3 +64,8 @@ console.log(wordsFromSearchString);
 
 console.log(searchString.indexOf("brown"));
 console.log(searchString.indexOf("b", 3));
+
+
+
+
+

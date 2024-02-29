@@ -70,3 +70,8 @@ let func3 = function (x, y) {
 console.log("myFavNumbers:", myFavNumbers); //[3, 9, 11, 11, 13]
 let sum = myFavNumbers.reduce(func3, 100);
 console.log(sum);
+
+
+
+
+
