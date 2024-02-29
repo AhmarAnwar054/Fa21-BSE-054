@@ -55,4 +55,10 @@ let anotherString = "Hello Sir Ali and Sir Salman"
 console.log(anotherString.replace(/Sir/g,"Mr."));
 
 
-//Converting a 
+//Converting a String to an Array
+let searchString = "A brown bag with purple color flower on it."
+let wordsFromSearchString = searchString.split(" ",2) //Split on spaces
+console.log(wordsFromSearchString);
+
+
+//indexOf
