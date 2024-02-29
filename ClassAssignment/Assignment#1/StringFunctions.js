@@ -60,7 +60,7 @@ let searchString = "A brown bag with purple color flower on it.";
 let wordsFromSearchString = searchString.split(" "); //Split on spaces
 console.log(wordsFromSearchString);
 
-// indexOf()
+//indexOf()
 
 console.log(searchString.indexOf("brown"));
 console.log(searchString.indexOf("b", 3));
